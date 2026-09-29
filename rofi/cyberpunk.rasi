@@ -1,0 +1,76 @@
+configuration {
+    font: "JetBrainsMono Nerd Font 11";
+    show-icons: true;
+    icon-theme: "Papirus";
+    display-drun: "⚡ APPS > ";
+    drun-display-format: "{name}";
+    disable-history: false;
+    sidebar-mode: false;
+}
+
+* {
+    bg0: #CC000000;  /* Hitam transparan */
+    bg1: #1a002b;    /* Ungu sangat gelap */
+    bg2: #24003d;    /* Ungu seleksi */
+    fg0: #ffffff;    /* Putih */
+    accent: #df00ff; /* Ungu Neon */
+    cyan: #00FFFF;   /* Cyan Neon */
+}
+
+window {
+    transparency: "real";
+    background-color: var(bg0);
+    text-color: var(fg0);
+    border: 2px;
+    border-color: var(accent);
+    border-radius: 12px;
+    width: 500px;
+    padding: 20px;
+}
+
+mainbox {
+    background-color: transparent;
+    spacing: 15px;
+    children: [inputbar, listview];
+}
+
+inputbar {
+    background-color: var(bg1);
+    text-color: var(cyan);
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px;
+    border-color: var(cyan);
+    children: [entry];
+}
+
+entry {
+    background-color: transparent;
+    text-color: var(fg0);
+    placeholder: "Ketik untuk mencari aplikasi...";
+    placeholder-color: #666666;
+}
+
+listview {
+    background-color: transparent;
+    columns: 1;
+    lines: 6;
+    spacing: 8px;
+    cycle: true;
+    dynamic: true;
+    scrollbar: false;
+}
+
+element {
+    background-color: transparent;
+    text-color: var(fg0);
+    border-radius: 6px;
+    padding: 10px;
+}
+
+element selected {
+    background-color: var(bg2);
+    text-color: var(cyan);
+    border: 1px;
+    border-color: var(cyan);
+}
