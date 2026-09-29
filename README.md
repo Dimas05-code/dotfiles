@@ -5,6 +5,7 @@ Arch Linux dengan i3wm adalah gabungan antara Arch Linux—sistem operasi modula
 
 | Desktop / DE | Deskripsi | RAM | Navigasi | Target Pengguna |
 | :--- | :--- | :--- | :--- | :--- |
+| **Arch Linux + i3wm** | Minimaslis, otomatis mengatur jendela berdampingan (_tilling_). | ~150 MB - 300 MB | Dominan Papan Tik (_Keyboard_) | Pengembang, power user, penyuka produktivitas cepat. |
 | **Arch Linux + GNOME** | Modern, visual estetik mirip macOS, kaya fitur bawaan. | ~800 MB - 1.2 GB | Dominan Tetikus *(Mouse)* / Gestur | Pengguna umum yang ingin desktop siap pakai dan interaktif. |
 | **Arch Linux + KDE Plasma** | Sangat mirip Windows, kustomisasi visual tingkat tinggi lewat menu klik. | ~600 MB - 900 MB | Dominan Tetikus *(Mouse)* | Pengguna yang migrasi dari Windows dan suka keindahan visual. |
 | **Arch Linux + XFCE** | Tradisional, sangat stabil, ringan untuk komputer berspesifikasi rendah. | ~400 MB - 500 MB | Tetikus & Papan Tik | Pengguna komputer tua yang ingin desktop klasik tanpa animasi berat. |
