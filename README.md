@@ -12,3 +12,17 @@ Arch Linux dengan i3wm adalah gabungan antara Arch Linux—sistem operasi modula
 | **Arch Linux + KDE Plasma** | Sangat mirip Windows, kustomisasi visual tingkat tinggi lewat menu klik. | ~600 MB - 900 MB | Dominan Tetikus *(Mouse)* | Pengguna yang migrasi dari Windows dan suka keindahan visual. |
 | **Arch Linux + XFCE** | Tradisional, sangat stabil, ringan untuk komputer berspesifikasi rendah. | ~400 MB - 500 MB | Tetikus & Papan Tik | Pengguna komputer tua yang ingin desktop klasik tanpa animasi berat. |
 | **Arch Linux + Hyprland** | *Tiling* modern masa kini berbasis Wayland dengan animasi visual | ~300 MB - 500 MB | Papan Tik & Tetikus | Pengguna yang ingin kecepatan *tiling manager* |
+
+
+## �️ Components & Tools
+
+| Komponen | Deskripsi & Fungsi |
+| :--- | :--- |
+| **i3wm** | *Tiling Window Manager* utama untuk navigasi jendela otomatis yang cepat dan rapi berbasis keyboard. |
+| **i3status** | Status bar bawaan untuk menampilkan info baterai, waktu, dan jaringan. |
+| **Polybar** | Status bar modern yang estetis, kustom, dan mempercantik tampilan layar. |
+| **Kitty** | Emulator terminal super cepat berbasis GPU dengan dukungan warna 24-bit. |
+| **Conky** | Monitor sistem di desktop yang ringan, lengkap dengan animasi kustom. |
+| **Rofi** | *Application launcher* dan pencari jendela melayang yang praktis. |
+| **Picom** | *Compositor* untuk memberikan efek transparan, bayangan, dan sudut jendela melengkung. |
+| **Micro** | *Text editor* terminal modern yang sudah mendukung *mouse* dan *shortcut* standar (`Ctrl+C`/`Ctrl+V`). |
