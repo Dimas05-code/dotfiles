@@ -2,3 +2,10 @@
 
 ## About Arch Linux + i3wm 
 Arch Linux dengan i3wm adalah gabungan antara Arch Linux—sistem operasi modular yang sangat ringan dan dapat dikustomisasi dari nol—dengan i3wm (i3 Window Manager), pengelola jendela berbasis tiling yang dikontrol sepenuhnya menggunakan papan tik (keyboard).
+
+| Desktop / DE | Deskripsi | RAM | Navigasi | Target Pengguna |
+| :--- | :--- | :--- | :--- | :--- |
+| **Arch Linux + GNOME** | Modern, visual estetik mirip macOS, kaya fitur bawaan. | ~800 MB - 1.2 GB | Dominan Tetikus *(Mouse)* / Gestur | Pengguna umum yang ingin desktop siap pakai dan interaktif. |
+| **Arch Linux + KDE Plasma** | Sangat mirip Windows, kustomisasi visual tingkat tinggi lewat menu klik. | ~600 MB - 900 MB | Dominan Tetikus *(Mouse)* | Pengguna yang migrasi dari Windows dan suka keindahan visual. |
+| **Arch Linux + XFCE** | Tradisional, sangat stabil, ringan untuk komputer berspesifikasi rendah. | ~400 MB - 500 MB | Tetikus & Papan Tik | Pengguna komputer tua yang ingin desktop klasik tanpa animasi berat. |
+| **Arch Linux + Hyprland** | *Tiling* modern masa kini berbasis Wayland dengan animasi visual | ~300 MB - 500 MB | Papan Tik & Tetikus | Pengguna yang ingin kecepatan *tiling manager* |
