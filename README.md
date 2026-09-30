@@ -25,3 +25,7 @@ Arch Linux dengan i3wm adalah gabungan antara Arch Linux—sistem operasi modula
 | **Conky** | Monitor sistem di desktop yang ringan, lengkap dengan animasi kustom. |
 | **Rofi** | *Application launcher* dan pencari jendela melayang yang praktis. |
 | **Picom** | *Compositor* untuk memberikan efek transparan, bayangan, dan sudut jendela melengkung. |
+
+## Image
+<img width="1914" height="1080" alt="image" src="https://github.com/user-attachments/assets/00b68d61-e9d3-47b3-ad7e-c8f96220c536" />
+
