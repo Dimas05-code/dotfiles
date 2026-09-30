@@ -29,3 +29,6 @@ Arch Linux dengan i3wm adalah gabungan antara Arch Linux—sistem operasi modula
 ## Image
 <img width="1914" height="1080" alt="image" src="https://github.com/user-attachments/assets/00b68d61-e9d3-47b3-ad7e-c8f96220c536" />
 
+<img width="1920" height="1076" alt="image" src="https://github.com/user-attachments/assets/d448f8dd-7484-459a-a999-aa85cf4fee55" />
+
+
